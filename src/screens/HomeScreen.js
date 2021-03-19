@@ -32,7 +32,7 @@ export default function HomeScreen(props) {
               fontSize: height * 0.04,
               textAlign: 'center',
               fontWeight: 'bold',
-              color: '#a50',
+              color: '#a50', 
             }}>
             Easy Scanner
           </Text>
